@@ -1,5 +1,3 @@
-# gatsby-starter-documentation
-Starter for building documentation site with GatsbyJS
+# React.js Hispano website
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-documentation-site https://github.com/gatsbyjs/gatsby-starter-documentation`
+Para documentación de como desarrollar o modificar los templates ir a los docs de [gatsby](https://github.com/gatsbyjs/gatsby)
